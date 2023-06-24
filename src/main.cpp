@@ -27,6 +27,6 @@ int main() {
     PrintImage(resultWithCompressedMask);
 
 
-    //SaveImageToFile(result, resultPath);
+    SaveImageToFile(result, resultPath);
     return 0;
 }
