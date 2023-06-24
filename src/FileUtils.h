@@ -11,4 +11,5 @@ struct Matrix {
 Matrix ReadImageFromFile(const std::string &fileName);
 Matrix ReadMaskFromFile(const std::string &fileName);
 void SaveImageToFile(Matrix image, const std::string &fileName);
+Matrix ReadCompressedMaskFromFile(const std::string &fileName);
 
