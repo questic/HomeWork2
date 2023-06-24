@@ -24,3 +24,7 @@
 ```  
 
 Or you can use your IDE. <br />
+
+*How its work:*
+
+In the files folder, you can edit the input image, mask, and compressed mask files. After running the program, it will apply the mask to the input image and save the result to a separate file. Also, the original image, the mask, the mask after decompression and the result after applying both masks will be displayed in the console.
